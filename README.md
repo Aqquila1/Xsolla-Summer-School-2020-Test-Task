@@ -3,3 +3,5 @@
 - binary classification
 - user segmentation
 - meta test 
+
+### Задания выполнены с помощью Jupyter Notebook. 
